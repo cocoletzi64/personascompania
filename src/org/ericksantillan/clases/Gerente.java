@@ -33,6 +33,6 @@ public class Gerente extends Empelado{
     @Override
     public String toString() {
         return super.toString() +
-                "presupuesto=" + presupuesto;
+                "Presupuesto= " + presupuesto;
     }
 }

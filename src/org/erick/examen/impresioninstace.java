@@ -7,7 +7,7 @@ public class impresioninstace {
         Gerente erick=new Gerente("Erick","Santillan","12453","edo.mez, ecatepec, la rosa#64");
         erick.setPresupuesto(150000);
         erick.setRemuneracion(34992);
-        erick.setRemuneracion(20);
+        erick.setRemuneracion(35000);
         imprimir(erick);
 
     }
